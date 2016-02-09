@@ -1,0 +1,20 @@
+{
+  "name": "multivision",
+  "description": "Extreme Tech Training",
+  "main": "index.js",
+  "authors": [
+    "Karina Timea Szocs"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "private": true,
+  "dependencies": {
+    "jquery": "^2.2.0",
+    "toastr": "^2.1.2",
+    "angular": "^1.5.0",
+    "angular-resource": "^1.5.0",
+    "angular-route": "^1.5.0",
+    "jade": "^1.11.0"
+  }
+}
